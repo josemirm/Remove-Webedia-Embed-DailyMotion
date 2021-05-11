@@ -1,0 +1,23 @@
+! Remove-Embed-Dailymotion-Webedia
+! Fitro para vídeos incrustados en webs de Webedia
+!
+xataka.com##.base-asset-video
+www.genbeta.com##.base-asset-video
+www.vidaextra.com##.base-asset-video
+www.espinof.com##.base-asset-video
+www.directoalpaladar.com##.base-asset-video
+www.xatakaciencia.com##.base-asset-video
+trendencias.com##.base-asset-video
+www.applesfera.com##.base-asset-video
+www.xatakamovil.com##.base-asset-video
+www.vitonica.com##.base-asset-video
+www.xatakafoto.com##.base-asset-video
+www.sensacine.com##.base-asset-video
+www.xatakandroid.com##.base-asset-video
+www.mundoxiaomi.com##.base-asset-video
+www.3djuegos.com##.base-asset-video
+www.xatakahome.com##.base-asset-video
+www.xatakawindows.com##.base-asset-video
+www.compradiccion.com##.base-asset-video
+es.ign.com##.base-asset-video
+www.poprosa.com##.base-asset-video
