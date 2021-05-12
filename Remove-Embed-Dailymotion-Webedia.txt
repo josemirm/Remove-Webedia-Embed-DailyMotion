@@ -3,7 +3,7 @@
 ! Fitro para vídeos incrustados en webs de Webedia
 !
 ! Hecho por Josemi Rodríguez
-¡ Idea original de echomgm
+! Idea original de echomgm
 !
 ! https://github.com/josemirm/Remove-Webedia-Embed-DailyMotion
 !
