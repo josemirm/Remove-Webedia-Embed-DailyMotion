@@ -5,13 +5,14 @@ Filtro para bloqueadores de anuncios para eliminar los vídeos de Dailymotion qu
 Este filtro está basado en un comentario que el usuario 'echomgm' ha escrito en el comentario de una de las entradas de Webedia, así que le agradezco desde aquí su aporte.
 
 ## Instalación
-Se copia el enlace que está aquí (clic derecho y copiar enlace) y, en función del bloqueador de anuncios que se esté usando se hace de la siguiente forma:
+Se copia [el enlace que está aquí](https://github.com/josemirm/Remove-Webedia-Embed-DailyMotion/raw/main/Remove-Embed-Dailymotion-Webedia.txt) (clic derecho y copiar enlace) y, en función del bloqueador de anuncios que se esté usando, se hace de una de las siguientes formas:
 
 - Ublock Origin:
 Dentro de su configuración, en la pestaña  _Lista de Filtros_ hay una opción denominada _Importar_ que hay que seleccionar y donde se ha de pegar el enlace. Si está en Inglés, pestaña _Filter List_, opción _Import_, y se escribe el enlace en el cuadro.
 
 ![Cuadro de configuración de Ublock](https://user-images.githubusercontent.com/585534/91296476-ab9d8c00-e76a-11ea-9fb9-87d6861bdf73.png)
 
+_Más adelante se irán añadiendo más configuraciones para otros bloqueadores de anuncios aquí_
 
 ## Formalidades
 
