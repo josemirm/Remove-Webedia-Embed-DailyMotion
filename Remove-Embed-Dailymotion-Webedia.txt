@@ -1,29 +1,31 @@
-! Remove-Embed-Dailymotion-Webedia
+[Adblock Plus 2.0]
+! Title: Remove-Webedia-Embed-DailyMotion
+! Version: 2
+! Expires: 15 days
+! Homepage: https://github.com/josemirm/Remove-Webedia-Embed-DailyMotion
 !
 ! Fitro para vídeos incrustados en webs de Webedia
 !
 ! Hecho por Josemi Rodríguez
 ! Idea original de echomgm
 !
-! https://github.com/josemirm/Remove-Webedia-Embed-DailyMotion
-!
-xataka.com##.base-asset-video
-www.genbeta.com##.base-asset-video
-www.vidaextra.com##.base-asset-video
-www.espinof.com##.base-asset-video
-www.directoalpaladar.com##.base-asset-video
-www.xatakaciencia.com##.base-asset-video
-trendencias.com##.base-asset-video
-www.applesfera.com##.base-asset-video
-www.xatakamovil.com##.base-asset-video
-www.vitonica.com##.base-asset-video
-www.xatakafoto.com##.base-asset-video
-www.sensacine.com##.base-asset-video
-www.xatakandroid.com##.base-asset-video
-www.mundoxiaomi.com##.base-asset-video
-www.3djuegos.com##.base-asset-video
-www.xatakahome.com##.base-asset-video
-www.xatakawindows.com##.base-asset-video
-www.compradiccion.com##.base-asset-video
-es.ign.com##.base-asset-video
-www.poprosa.com##.base-asset-video
+xataka.com##.asset-content
+www.genbeta.com##.asset-content
+www.vidaextra.com##.asset-content
+www.espinof.com##.asset-content
+www.directoalpaladar.com##.asset-content
+www.xatakaciencia.com##.asset-content
+trendencias.com##.asset-content
+www.applesfera.com##.asset-content
+www.xatakamovil.com##.asset-content
+www.vitonica.com##.asset-content
+www.xatakafoto.com##.asset-content
+www.sensacine.com##.asset-content
+www.xatakandroid.com##.asset-content
+www.mundoxiaomi.com##.asset-content
+www.3djuegos.com##.asset-content
+www.xatakahome.com##.asset-content
+www.xatakawindows.com##.asset-content
+www.compradiccion.com##.asset-content
+es.ign.com##.asset-content
+www.poprosa.com##.asset-content
