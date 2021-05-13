@@ -29,3 +29,4 @@ www.xatakawindows.com##.asset-content
 www.compradiccion.com##.asset-content
 es.ign.com##.asset-content
 www.poprosa.com##.asset-content
+dailymotion.com/embed/*
