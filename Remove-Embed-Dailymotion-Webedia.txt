@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Elimina vídeos de Dailymotion incrustados en Webedia
-! Version: 2
+! Version: 3
 ! Expires: 15 days
 ! Homepage: https://github.com/josemirm/Remove-Webedia-Embed-DailyMotion
 !
