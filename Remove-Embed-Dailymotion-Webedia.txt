@@ -29,3 +29,4 @@ www.xatakawindows.com##.article-asset-normal.video-boost-container
 www.compradiccion.com##.article-asset-normal.video-boost-container
 es.ign.com##.article-asset-normal.video-boost-container
 www.poprosa.com##.article-asset-normal.video-boost-container
+xataka.com.mx##.article-asset-normal.video-boost-container
