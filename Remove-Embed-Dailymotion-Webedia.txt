@@ -30,3 +30,4 @@ www.compradiccion.com##.base-asset-video
 es.ign.com##.base-asset-video
 www.poprosa.com##.base-asset-video
 xataka.com.mx##.base-asset-video
+www.3djuegospc.com##.base-asset-video
